@@ -6,7 +6,7 @@
 | -------- | ----------------------------------------- |
 | chatgpt  | https://chat.openai.com/                  |
 | bing     | https://www.bing.com                      |
-| claude   | https://www.anthropic.com/claude-in-slack |
+| claude   | https://claude.ai |
 | bard     | https://bard.google.com/                  |
 | 文心一言 | https://yiyan.baidu.com/welcome           |
 | 通义千问 | https://tongyi.aliyun.com/                |
