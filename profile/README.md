@@ -8,6 +8,7 @@
 | bing     | https://www.bing.com                      |
 | claude   | https://claude.ai |
 | bard     | https://bard.google.com/                  |
+|chatglm|https://chatglm.cn/detail|
 | 文心一言 | https://yiyan.baidu.com/welcome           |
 | 通义千问 | https://tongyi.aliyun.com/                |
 
