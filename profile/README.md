@@ -59,6 +59,7 @@
 | **Windsurf** | Codeium 出品，流式 AI IDE | [🔗](https://codeium.com/windsurf) |
 | **Claude Code** | Anthropic 终端编程 Agent | [🔗](https://docs.anthropic.com/en/docs/claude-code/overview) |
 | **通义灵码** | 阿里出品，支持多种 IDE | [🔗](https://tongyi.aliyun.com/lingma/) |
+| **CodeRabbit** | AI 代码审查，自动 PR Review | [🔗](https://coderabbit.ai/) |
 
 ## 🔊 音频 / 语音
 
@@ -68,6 +69,31 @@
 | **Suno** | AI 作曲生成完整歌曲 | [🔗](https://suno.com/) |
 | **Udio** | 文生音乐，细节丰富 | [🔗](https://www.udio.com/) |
 | **Fish Audio** | 开源语音克隆 + TTS | [🔗](https://fish.audio/) |
+| **Whisper** | OpenAI 开源语音转文字 | [🔗](https://github.com/openai/whisper) |
+
+## 🧰 实用工具
+
+| 工具 | 简介 | 🔗 |
+|------|------|:---:|
+| **Notion AI** | AI 增强的 All-in-One 工作空间 | [🔗](https://www.notion.so/product/ai) |
+| **Gamma** | AI 一键生成 PPT / 文档 / 网页 | [🔗](https://gamma.app/) |
+| **Otter.ai** | 自动会议转录 + 笔记 | [🔗](https://otter.ai/) |
+| **Descript** | AI 视频/音频编辑器，像编辑文本一样 | [🔗](https://www.descript.com/) |
+| **Grammarly** | AI 英文写作润色助手 | [🔗](https://www.grammarly.com/) |
+| **Jasper** | AI 营销文案生成平台 | [🔗](https://www.jasper.ai/) |
+| **Napkin AI** | 文字转信息图，PPT 配图利器 | [🔗](https://www.napkin.ai/) |
+| **Beautiful.ai** | AI 自动排版的演示文稿工具 | [🔗](https://www.beautiful.ai/) |
+| **讯飞听见** | 语音转文字 + 翻译，会议纪要 | [🔗](https://www.iflyrec.com/) |
+
+## 🏗️ 3D / 设计
+
+| 工具 | 简介 | 🔗 |
+|------|------|:---:|
+| **Meshy** | AI 文生 3D 模型，游戏资产 | [🔗](https://www.meshy.ai/) |
+| **Luma AI** | NeRF 3D 扫描 + 文生 3D | [🔗](https://lumalabs.ai/) |
+| **Tripo** | 快速 AI 3D 建模 | [🔗](https://www.tripo3d.ai/) |
+| **Canva AI** | 在线设计 + AI 生成素材 | [🔗](https://www.canva.com/) |
+| **Figma AI** | Figma 内置 AI 设计辅助 | [🔗](https://www.figma.com/ai/) |
 
 ## 🔧 Agent / 工作流
 
@@ -89,6 +115,19 @@
 | **Together AI** | 开源模型推理 API 平台 | [🔗](https://www.together.ai/) |
 | **Groq** | 极速推理，LPU 芯片加持 | [🔗](https://groq.com/) |
 | **硅基流动** | 国产模型 API 服务平台 | [🔗](https://siliconflow.cn/) |
+
+## 📖 学习 / 资讯
+
+| 工具 | 简介 | 🔗 |
+|------|------|:---:|
+| **ArXiv** | 预印本论文库，AI 研究第一来源 | [🔗](https://arxiv.org/) |
+| **Papers with Code** | 论文 + 代码实现 + 排行榜 | [🔗](https://paperswithcode.com/) |
+| **Hugging Face Papers** | 每日精选 AI 论文 | [🔗](https://huggingface.co/papers) |
+| **Elicit** | AI 辅助文献检索 + 总结 | [🔗](https://elicit.com/) |
+| **机器之心** | 中文 AI 科技媒体，深度报道 | [🔗](https://www.jiqizhixin.com/) |
+| **量子位** | 中文 AI 资讯，产品动态快 | [🔗](https://www.qbitai.com/) |
+| **36Kr 神译局** | AI 前沿译文 + 行业分析 | [🔗](https://36kr.com/academia) |
+| **The Decoder** | 英文 AI 资讯，更新及时 | [🔗](https://the-decoder.com/) |
 
 ---
 
