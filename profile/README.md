@@ -15,7 +15,7 @@
 | **Grok** | xAI 出品，实时信息 + 幽默风格 | [🔗](https://grok.com/) |
 | **Perplexity** | AI 搜索引擎，自动溯源引用 | [🔗](https://www.perplexity.ai/) |
 | **Kimi** | 月之暗面出品，超长上下文窗口 | [🔗](https://kimi.moonshot.cn/) |
-| **豆包** | 字节跳动出品，多端覆盖 | [🔗](https://www.doubao.com/) |
+| **豆包** | 字节跳动出品，多端覆盖，2026 月活超 1 亿 | [🔗](https://www.doubao.com/) |
 | **通义千问** | 阿里出品，通义系列旗舰 | [🔗](https://tongyi.aliyun.com/) |
 | **文心一言** | 百度出品，中文理解强 | [🔗](https://yiyan.baidu.com/welcome) |
 | **智谱清言** | 智谱 AI，GLM 系列模型 | [🔗](https://chatglm.cn/) |
@@ -23,6 +23,7 @@
 | **腾讯元宝** | 腾讯混元大模型客户端 | [🔗](https://yuanbao.tencent.com/) |
 | **讯飞星火** | 科大讯飞，语音 + 语言结合 | [🔗](https://xinghuo.xfyun.cn/) |
 | **Microsoft Copilot** | 微软整合 Office 生态的 AI 助手 | [🔗](https://copilot.microsoft.com/) |
+| **MiniCPM-o 4.5** | 面壁智能，9B 开源全双工多模态模型 | [🔗](https://github.com/OpenBMB/MiniCPM-o) |
 
 ## 🎨 图像生成
 
@@ -54,12 +55,13 @@
 
 | 工具 | 简介 | 🔗 |
 |------|------|:---:|
-| **GitHub Copilot** | GitHub + OpenAI，IDE 自动补全鼻祖 | [🔗](https://github.com/features/copilot) |
+| **GitHub Copilot + Agent HQ** | GitHub + OpenAI，自动补全 + 代理式开发 | [🔗](https://github.com/features/copilot) |
 | **Cursor** | AI-first 编辑器，深度理解代码库 | [🔗](https://cursor.sh/) |
 | **Windsurf** | Codeium 出品，流式 AI IDE | [🔗](https://codeium.com/windsurf) |
 | **Claude Code** | Anthropic 终端编程 Agent | [🔗](https://docs.anthropic.com/en/docs/claude-code/overview) |
 | **通义灵码** | 阿里出品，支持多种 IDE | [🔗](https://tongyi.aliyun.com/lingma/) |
 | **CodeRabbit** | AI 代码审查，自动 PR Review | [🔗](https://coderabbit.ai/) |
+| **Qwen3-Coder-Next** | 阿里 MoE 架构，3B 激活参数编程模型 | [🔗](https://qwen.alibaba.com/) |
 
 ## 🔊 音频 / 语音
 
@@ -95,10 +97,19 @@
 | **Canva AI** | 在线设计 + AI 生成素材 | [🔗](https://www.canva.com/) |
 | **Figma AI** | Figma 内置 AI 设计辅助 | [🔗](https://www.figma.com/ai/) |
 
+## 🥤 Vibe Coding / AI 建站
+
+| 工具 | 简介 | 🔗 |
+|------|------|:---:|
+| **Lovable** | 一句话生成全栈应用，ARR 破亿独角兽 | [🔗](https://lovable.dev/) |
+| **Base44** | 说人话就能建站，被 Wix 收购 | [🔗](https://base44.com/) |
+| **Bolt.new** | 浏览器里直接写代码 + 预览 | [🔗](https://bolt.new/) |
+
 ## 🔧 Agent / 工作流
 
 | 工具 | 简介 | 🔗 |
 |------|------|:---:|
+| **OpenClaw** | 上下文记忆型 AI 助手，越用越懂你 🧡 | [🔗](https://github.com/openclaw/openclaw) |
 | **Dify** | 开源 LLM 应用开发平台 | [🔗](https://dify.ai/) |
 | **Coze (扣子)** | 字节出品的 AI Bot 搭建平台 | [🔗](https://www.coze.com/) |
 | **n8n** | 开源工作流自动化，可接 AI 节点 | [🔗](https://n8n.io/) |
@@ -128,6 +139,8 @@
 | **量子位** | 中文 AI 资讯，产品动态快 | [🔗](https://www.qbitai.com/) |
 | **36Kr 神译局** | AI 前沿译文 + 行业分析 | [🔗](https://36kr.com/academia) |
 | **The Decoder** | 英文 AI 资讯，更新及时 | [🔗](https://the-decoder.com/) |
+| **RadarAI** | AI 动态聚合，追踪爆火产品与开源进展 | [🔗](https://radarai.top/) |
+| **BestBlogs.dev** | AI 优质博客聚合，开发者必读 | [🔗](https://bestblogs.dev/) |
 
 ---
 
